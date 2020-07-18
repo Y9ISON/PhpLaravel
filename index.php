@@ -28,7 +28,8 @@
       <div class="row">
         <div class="p-3 mb-2 bg-primary text-white">
 <?php
-echo "Hola¿Como estas?";
+$name = "Max";
+echo "hola " . $name;
 ?>
         </div>
       </div>
